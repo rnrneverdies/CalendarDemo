@@ -3,6 +3,7 @@
     package="rnr.test.calendardemo" >
 
     <uses-permission android:name="android.permission.READ_CALENDAR" />
+    <uses-permission android:name="android.permission.WRITE_CALENDAR" />
 
     <application
         android:allowBackup="true"
